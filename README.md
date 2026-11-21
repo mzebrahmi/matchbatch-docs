@@ -75,7 +75,7 @@ File actions run in your selected local, WSL, remote, or network storage environ
 
 ## License
 
-MatchBatch is proprietary software, free to use for personal, educational, and commercial work. Redistribution or resale requires the copyright owner's written permission. See [LICENSE.txt](LICENSE.txt) for the full terms.
+MatchBatch is proprietary software, free to use for personal, educational, and commercial work. Redistribution or resale requires the copyright owner's written permission. See [LICENSE.txt](https://github.com/mzebrahmi/matchbatch-docs/blob/main/LICENSE.txt) for the full terms.
 
 ## Support
 
