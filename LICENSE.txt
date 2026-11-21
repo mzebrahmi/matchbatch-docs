@@ -1,0 +1,75 @@
+MatchBatch License
+
+Copyright (c) 2026 Md Zine E Brahmi. All rights reserved.
+
+1. Permission to use
+
+This license applies to the copy of MatchBatch distributed with it.
+
+The copyright owner grants you a worldwide, non-exclusive, royalty-free license to
+install and use MatchBatch for personal, educational, and
+commercial work, including use at your workplace. You may install it on
+multiple devices and keep reasonable backup copies for your own use.
+This permission continues indefinitely while you comply with these terms.
+
+2. Ownership and reserved rights
+
+The copyright owner retains ownership of the extension and its original accompanying
+materials. This license does not transfer ownership or grant rights to the
+MatchBatch name or logo for branding your own products.
+
+The copyright owner may sell or transfer the copyright and other rights
+they own in MatchBatch. Any such sale or transfer is subject to the
+permissions already granted under this license.
+
+Without the copyright owner's prior written permission, you may not redistribute,
+sublicense, sell, rent, or relicense the extension or modified versions of it,
+or reuse its code or original artwork in other products. Do not remove its
+copyright or license notices. You may share links to the author's official
+distribution pages.
+
+These restrictions do not limit rights that applicable law does not allow
+this license to restrict. Separately licensed third-party materials, if any,
+remain subject to their own terms.
+
+3. Your files
+
+You retain all rights you have in files you process with the extension.
+The copyright owner claims no ownership of those files or your work products.
+
+4. No warranty
+
+To the extent permitted by applicable law, the extension is provided
+"as is" and "as available", without express or implied warranties, including
+warranties of merchantability, fitness for a particular purpose, and
+non-infringement. File operations can change or delete data; you are
+responsible for reviewing actions and keeping appropriate backups.
+
+5. Limitation of liability
+
+To the extent permitted by applicable law, the author is not liable for
+damages arising from use of, or inability to use, the extension, including
+data loss, lost profits, or business interruption. Nothing in these terms
+excludes liability or statutory rights that cannot lawfully be excluded.
+
+6. Ending the license
+
+Your permission to use the extension ends if you materially breach these
+terms and do not correct the breach within 30 days after receiving written
+notice from the copyright owner. If permission ends, stop using the extension and
+remove your copies, except copies you are legally required to retain.
+
+7. Privacy
+
+MatchBatch has no telemetry or analytics. It does not collect or aggregate
+usage statistics or send your file contents, search queries or results,
+filenames, or paths to its developer, analytics services, or a separate
+hosted file-processing service.
+
+File actions run in the storage environment you select: your computer,
+WSL, a remote workspace host, or network storage.
+
+This statement covers MatchBatch. VS Code, storage providers, cloud-sync
+software, and documentation hosts have their own data practices. Viewing
+the hosted demo images or opening documentation links may make network
+requests to GitHub.

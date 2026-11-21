@@ -12,31 +12,31 @@ The demos use relative paths. Folder-picker address fields are anonymized.
 
 Use the eye icon to list searchable, nonempty text files with one result per file. Your Search filters and exclusions remain in effect.
 
-![Show Searchable Files in VS Code's Search view](media/demos/show-searchable-files.gif)
+![Show Searchable Files in VS Code's Search view](https://mzebrahmi.github.io/matchbatch-docs/media/demos/show-searchable-files.gif)
 
 ### Copy files
 
 Copy selected files to another folder, preserving their folder structure and keeping the originals.
 
-![Reviewing and copying matching files in VS Code](media/demos/copy-files.gif)
+![Reviewing and copying matching files in VS Code](https://mzebrahmi.github.io/matchbatch-docs/media/demos/copy-files.gif)
 
 ### Delete files
 
 Review the selected files and confirm deletion through VS Code. Trash behavior follows VS Code's settings and the filesystem.
 
-![Reviewing and deleting matching files in VS Code](media/demos/delete-files.gif)
+![Reviewing and deleting matching files in VS Code](https://mzebrahmi.github.io/matchbatch-docs/media/demos/delete-files.gif)
 
 ### Move files
 
 Move selected files to another folder while preserving their folder structure.
 
-![Reviewing and moving matching files in VS Code](media/demos/move-files.gif)
+![Reviewing and moving matching files in VS Code](https://mzebrahmi.github.io/matchbatch-docs/media/demos/move-files.gif)
 
 ### Rename files
 
 Add text, find and replace, assign a new name, or number files. Preview the new names before confirming. Find and Replace can also change extensions.
 
-![Previewing and applying a batch rename in VS Code](media/demos/rename-files.gif)
+![Previewing and applying a batch rename in VS Code](https://mzebrahmi.github.io/matchbatch-docs/media/demos/rename-files.gif)
 
 ## Settings
 
@@ -66,6 +66,16 @@ All setting IDs below start with `searchFileActions.`.
 File previews are always shown. Confirmation settings control only the extension's final dialog; native VS Code prompts can still appear. Trash behavior follows VS Code's settings and the filesystem. Rename defaults remain editable in the mode chooser and numbering prompts.
 
 Relative paths include workspace folder names in multi-root workspaces. Destinations outside the workspace use a **Destination** label and destination-relative paths. This changes displayed paths only; VS Code controls the folder-picker UI, which can still show full paths.
+
+## Privacy
+
+MatchBatch has no telemetry or analytics and does not collect or aggregate usage statistics. It does not send your file contents, search queries or results, filenames, or paths to its developer, analytics services, or a separate hosted file-processing service.
+
+File actions run in your selected local, WSL, remote, or network storage environment. VS Code, storage providers, cloud-sync software, and documentation hosts have their own data practices. Viewing the hosted demo images or opening documentation links may make network requests to GitHub.
+
+## License
+
+MatchBatch is proprietary software, free to use for personal, educational, and commercial work. Redistribution or resale requires the copyright owner's written permission. See [LICENSE.txt](LICENSE.txt) for the full terms.
 
 ## Support
 
